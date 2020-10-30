@@ -1,0 +1,14 @@
+co\unicauca\restaurant\accces\ItalianRepositoryImplArrays.class
+co\unicauca\restaurant\services\DishBuilder.class
+co\unicauca\restaurant\domain\Dish.class
+co\unicauca\restaurant\DishApp\OrientalDishBuilder.class
+co\unicauca\restaurant\DishApp\Restaurant.class
+co\unicauca\restaurant\domain\Product.class
+co\unicauca\restaurant\accces\Factory.class
+co\unicauca\restaurant\DishApp\ItalianDish.class
+co\unicauca\restaurant\DishApp\ItalianDishBuilder.class
+co\unicauca\restaurant\domain\Size.class
+co\unicauca\restaurant\DishApp\OrientalDish.class
+co\unicauca\restaurant\services\DishDirector.class
+co\unicauca\restaurant\accces\IProductRepository.class
+co\unicauca\restaurant\accces\OrientalRepositoryImplArrays.class
